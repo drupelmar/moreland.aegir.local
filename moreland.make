@@ -29,7 +29,7 @@ api = 2
 ; Use Pressflow instead of Drupal core:
 projects[pressflow][type] = "core"
 projects[pressflow][download][type] = "get"
-projects[pressflow][download][url] = "http://files.pressflow.org/pressflow-6-current.tar.gz"
+projects[pressflow][download][url] = "http://files.aegir.cc/dev/pressflow-6.28.1.tar.gz"
 
   
   
