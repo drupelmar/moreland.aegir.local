@@ -2,7 +2,7 @@
 
 /**
  *  @file
- * Installation profile for MySite.com
+ * Installation profile for moreland.aegir.local
  */
 
 /**
@@ -16,5 +16,5 @@ function example_profile_modules() {
 // plus the 'locale' module. But however, any available modules may be added
 // to the list, including contributed modules, which will be then reqired by
 // the installer. Configuration of these modules may be handled later by tasks.
-return array('color', 'comment', 'help', 'menu', 'taxonomy', 'dblog', 'locale');
+return array('color', 'comment', 'help', 'menu', 'taxonomy');
 }
